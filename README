@@ -1,0 +1,1 @@
+Three jumping jack graphics are loaded- 1. Down, 2. In Middle of Jump and 3. Top of Jump. The graphics are then flashed on the screen resulting in an animation of a jumping jack. Kivy Clock is used to generate the animation.
